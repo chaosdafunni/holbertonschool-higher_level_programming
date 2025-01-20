@@ -6,6 +6,5 @@ The output is formatted as: "Programming is like building a zzle"
 
 # Print the desired message to the console
 print(
-    "Programming is like building a multilingual puzzle\n"
-)
-
+        "\"Programming is like building a multilingual puzzle"
+        )
